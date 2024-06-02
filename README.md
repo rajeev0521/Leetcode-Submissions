@@ -1,6 +1,6 @@
 # LeetCode Submissions
 
-![LeetCode Submissions](https://leetcode-badge.chyroc.cn/?username=YOUR_LEETCODE_USERNAME&theme=light)
+![LeetCode Submissions](https://leetcode-badge.chyroc.cn/?username=YOUR_LEETCODE_rajeev0521&theme=light)
 
 Welcome to my LeetCode Submissions repository! Here, you'll find all my solutions to LeetCode problems, organized by difficulty and problem number. This repository is continuously updated with my latest solutions.
 
