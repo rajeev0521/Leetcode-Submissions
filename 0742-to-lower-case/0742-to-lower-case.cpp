@@ -4,7 +4,7 @@ public:
         int n = s.size();
         for(int i = 0; i < n; i++){
             if(s[i] >= 'A' && s[i] <= 'Z')
-                s[i] = s[i] + 32; 
+                s[i] = s[i] - 'A' + 'a'; 
         }
         return s;
     }
