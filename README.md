@@ -36,3 +36,11 @@ To view the solutions, simply navigate to the folder corresponding to the diffic
 
 ## 📂 Folder Structure
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+<!---LeetCode Topics End-->
