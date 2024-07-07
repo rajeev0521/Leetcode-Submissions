@@ -43,6 +43,7 @@ To view the solutions, simply navigate to the folder corresponding to the diffic
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -55,4 +56,8 @@ To view the solutions, simply navigate to the folder corresponding to the diffic
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rajeev0521/Leetcode-Submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
